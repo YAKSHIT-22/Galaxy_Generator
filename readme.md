@@ -2,7 +2,7 @@
 
 # Galaxy_Generator
 
-[Galaxy_Generator](https://github.com/YAKSHIT-22/Galaxy_Generator) is a 3D Web Model Made using Blender & Three.js. 
+[Galaxy_Generator](https://github.com/YAKSHIT-22/Galaxy_Generator) is a 3D Galaxy_Generator Made using  Three.js. 
 
 [![](https://img.shields.io/badge/3D_Text-v1.0.0-blue)](#)
 [![Stars](https://img.shields.io/github/stars/YAKSHIT-22/3D_Text?style=flat-square&color=yellow)](https://github.com/YAKSHIT-22/3D_Text/stargazers)
