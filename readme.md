@@ -23,7 +23,7 @@
 https://galaxy-generator-six-pi.vercel.app/
 
 # License 👊
-3D_Text is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
+Galaxy_Generator is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
 ---
 
