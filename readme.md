@@ -5,10 +5,10 @@
 [Galaxy_Generator](https://github.com/YAKSHIT-22/Galaxy_Generator) is a 3D Galaxy_Generator Made using  Three.js. 
 
 [![](https://img.shields.io/badge/GG-v1.0.0-blue)](#)
-[![Stars](https://img.shields.io/github/stars/YAKSHIT-22/Galaxy_Generator?style=flat-square&color=yellow)](https://github.com/YAKSHIT-22/3D_Text/stargazers)
-[![Forks](https://img.shields.io/github/forks/YAKSHIT-22/Galaxy_Generator?style=flat-square&color=orange)](https://github.com/YAKSHIT-22/3D_Text/fork)
-[![Size](https://img.shields.io/github/repo-size/YAKSHIT-22/Galaxy_Generator?style=flat-square&color=green)](https://github.com/YAKSHIT-22/3D_Text)
-[![Contributors](https://img.shields.io/github/contributors/YAKSHIT-22/Galaxy_Generator?style=flat-square&color=green)](https://github.com/YAKSHIT-22/3D_Text/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/YAKSHIT-22/Galaxy_Generator?style=flat-square&color=yellow)](https://github.com/YAKSHIT-22/Galaxy_Generator/stargazers)
+[![Forks](https://img.shields.io/github/forks/YAKSHIT-22/Galaxy_Generator?style=flat-square&color=orange)](https://github.com/YAKSHIT-22/Galaxy_Generator/fork)
+[![Size](https://img.shields.io/github/repo-size/YAKSHIT-22/Galaxy_Generator?style=flat-square&color=green)](https://github.com/YAKSHIT-22/Galaxy_Generator)
+[![Contributors](https://img.shields.io/github/contributors/YAKSHIT-22/Galaxy_Generator?style=flat-square&color=green)](https://github.com/YAKSHIT-22/Galaxy_Generator/graphs/contributors)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/YAKSHIT-22/Galaxy_Generator/graphs/commit-activity) 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/YAKSHIT-22/Galaxy_Generator)
